@@ -34,4 +34,3 @@
 - Sometimes its best to get a third party to fix any issues
 - unless the gossip is to build peace among parties, it is forbidden
 - for the sake of giving peace between parties, its better to talk behind the back of another person
--
